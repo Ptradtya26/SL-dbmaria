@@ -267,7 +267,7 @@ MariaDB [dbtoko1]> CREATE table pesanan_items(
     -> produk INT(11),
     -> pesanan INT(11),
     -> qty INT(11),
-    -> harga DOUBLE;
+    -> harga DOUBLE);
 ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
 corresponds to your MariaDB server version for the right syntax to use near '' a
 t line 6
