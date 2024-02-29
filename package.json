@@ -1,0 +1,23 @@
+{
+  "name": "sl-dbmaria",
+  "version": "0.1.0",
+  "description": "A powerful web scraping tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ptradtya26/SL-dbmaria.git"
+  },
+  "homepage": "https://github.com/Ptradtya26/SL-dbmaria",
+  "keywords": ["web", "scraping", "tool"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2"
+  }
+}
